@@ -1,0 +1,14 @@
+node_modules/
+src/main.js
+dist/
+.DS_Store
+dist/
+.idea/
+desktop/
+.env
+.vscode
+src-tauri/target/
+.replit
+replit.nix
+/.obsidian
+.pnpm-store
